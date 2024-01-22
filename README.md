@@ -1,0 +1,1 @@
+Color quantization methods define a quantized palette with fewer colors than the original palette. After this, a quantized image is obtained by representing each pixel of the original image using a color of the quantized palette in such a way that the new image is as similar as possible to the original image
